@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Fullstack com foco em aplicativos<br>PHP, JavaScript, Docker, PostgreSQL<br>
+Desenvolvedor Fullstack com foco em tecnologias PHP, JavaScript, Docker, PostgreSQL<br>
 
 
 ## 🌐 Socials:
