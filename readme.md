@@ -1,11 +1,15 @@
+###
 <h2 align="center">About Me</h2>
+
+###
+<h3 align="center">IT Assistant</h3>
 
 ###
 <img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202502/644129_zKnMbKgo.png"  />
 
 ###
-<h4 align="left">Tech Stack</h4>
 <div align="left">
+  <h4>Tech Stack</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
@@ -20,14 +24,10 @@
 </div>
 
 ###
-<h4 align="left">Social Media</h4>
 <div align="left">
-  <a href="https://www.instagram.com/gustavawn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-lsm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+  <h4>Social Media</h4>
+  <a href="https://www.instagram.com/gustavawn/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" width="30" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/gustavo-lsm/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" width="30" alt="linkedin logo"  /></a>
 </div>
 
 ###
