@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
 </div>
 
