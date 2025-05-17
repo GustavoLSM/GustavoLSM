@@ -2,7 +2,7 @@
 <h2 align="center">About Me</h2>
 
 ###
-<h3 align="center">IT Assistant</h3>
+<h3 align="center">IT</h3>
 
 ###
 <img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202502/644129_zKnMbKgo.png"  />
@@ -10,17 +10,10 @@
 ###
 <div align="left">
   <h4>Tech Stack</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
 </div>
 
 ###
