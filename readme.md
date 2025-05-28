@@ -5,16 +5,12 @@
 <h3 align="center">IT</h3>
 
 ###
-<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202502/644129_zKnMbKgo.png"  />
-
-###
 <div align="left">
   <h4>Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="sql logo"  />
 </div>
 
 ###
