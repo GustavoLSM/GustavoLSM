@@ -9,7 +9,7 @@
   <h4>Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="sql logo"  />
 </div>
 
