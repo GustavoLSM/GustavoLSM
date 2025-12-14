@@ -2,7 +2,7 @@
 <h2 align="center">About Me</h2>
 
 ###
-<h3 align="center">Offensive Security</h3>
+<h3 align="center">Cybersecurity Professional</h3>
 
 ###
 <div align="center">
