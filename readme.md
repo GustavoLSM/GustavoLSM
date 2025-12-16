@@ -1,21 +1,33 @@
-###
-<h2 align="center">About Me</h2>
+<h2 align="center">Gustavo Luís de Sousa Machado</h2>
 
-###
-<h3 align="center">Cybersecurity Professional</h3>
+<h3 align="center">Cybersecurity Analyst | Blue Team & SecOps | Offensive Security Student (DCPT)</h3>
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kali" height="30" alt="kali logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
-</div>
+---
 
-###
-<div align="center">
-  <h4>Contact</h4>
-  <a href="https://www.instagram.com/gustavawn/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" width="30" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/gustavo-lsm/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" width="30" alt="linkedin logo"  /></a>
-</div>
+## 👤 Who I Am
+
+Focused on **Blue Team/SecOps**, expanding into **Offensive Security** to become a **Desec Certified Penetration Tester (DCPT)**.
+
+At **Laghetto Hoteis**, I lead the technical implementation of cyber defense strategies:
+- 🛡️ SIEM engineering with Wazuh
+- 🔥 Perimeter protection with Sophos XG
+- 🧠 Offensive mindset for proactive hardening
+
+---
+
+## 🧰 Tech Stack
+
+- **SIEM**: Wazuh
+- **Firewall**: Sophos XG
+- **Networking**: VLAN segmentation, Ubiquiti UniFi
+- **Offensive Tools**: Kali Linux, Burp Suite, Nmap, Netcat
+- **Scripting**: Python, PowerShell, Bash
+- **Languages**: C, PHP
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Studying Offensive Security
+- 🧪 Practicing penetration testing labs
+- 🏆 Preparing for **DCPT Certification**
